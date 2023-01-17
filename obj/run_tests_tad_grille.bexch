@@ -1,0 +1,25 @@
+[GENERATED OBJECT FILE]
+b__run_tests_tad_grille.o
+[PROJECT FILES]
+C:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\sudoku.gpr
+20220105131516 3ef20db87cff8ad9d77324226698f05b
+[BOUND OBJECT FILES]
+C:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\obj\TAD_coordonnee.o
+C:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\obj\TAD_ensemble.o
+C:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\obj\TAD_grillesudoku.o
+C:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\obj\affichage.o
+C:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\obj\tests.o
+C:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\obj\tests_TAD_Grille.o
+C:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\obj\run_tests_TAD_Grille.o
+[GENERATED SOURCE FILES]
+b__run_tests_tad_grille.ads
+b__run_tests_tad_grille.adb
+b__run_tests_tad_grille.ali
+[RESULTING OPTIONS]
+-LC:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\obj\
+-LC:\Users\guill\OneDrive\Documents\BUT_info\S1\SAE\S1.02\SAE1.02_Sudoku_Version_etudiants_PM-FV_21-22\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

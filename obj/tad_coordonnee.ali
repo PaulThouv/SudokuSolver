@@ -1,0 +1,49 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U tad_coordonnee%b	tad_coordonnee.adb	a118e43e NE OO PK
+
+U tad_coordonnee%s	tad_coordonnee.ads	513dde5c EE NE OO PK
+
+D system.ads		20200819050648 32a08138 system%s
+D tad_coordonnee.ads	20220105171810 513dde5c tad_coordonnee%s
+D tad_coordonnee.adb	20220105171802 f0253a62 tad_coordonnee%b
+G a e
+G c Z s b [construirecoordonnees tad_coordonnee 6 13 none]
+G c Z s b [obtenirligne tad_coordonnee 10 13 none]
+G c Z s b [obtenircolonne tad_coordonnee 13 13 none]
+G c Z s b [obtenircarre tad_coordonnee 16 13 none]
+G c Z s b [obtenircoordonneecarre tad_coordonnee 19 13 none]
+G c Z s s [type_coordonneeIP tad_coordonnee 22 9 none]
+X 2 tad_coordonnee.ads
+1K9*TAD_Coordonnee 22E9 27l5 27e19 3|2b14 87l5 87t19
+3R9*Type_Coordonnee 7r50 10r31 13r33 16r31 19r64 22c9 25e14 3|9r50 11r11
+. 23r31 32r33 41r31 52r64 54r11
+6V13*construireCoordonnees{3R9} 7>7 7>24 3|8b13 17l8 17t29
+7i7 ligne{integer} 3|9b7 13r20
+7i24 colonne{integer} 3|9b24 14r20
+10V13*obtenirLigne{integer} 10>27 3|23b13 26l8 26t20
+10r27 c{3R9} 3|23b27 25r14
+13V13*obtenirColonne{integer} 13>29 3|32b13 35l8 35t22
+13r29 c{3R9} 3|32b29 34r14
+16V13*obtenirCarre{integer} 16>27 3|41b13 46l8 46t20
+16r27 c{3R9} 3|41b27 44r23 44r45
+19V13*obtenirCoordonneeCarre{3R9} 19>37 3|52b13 85l8 85t30
+19i37 numCarre{integer} 3|52b37 56r10 59r13 62r13 65r13 68r13 71r13 74r13
+. 77r13
+23i7*ligne{integer} 3|13m9 25r16 44r25 57m12 60m12 63m12 66m12 69m12 72m12
+. 75m12 78m12 81m12
+24i7*colonne{integer} 3|14m9 34r16 44r47 58m12 61m12 64m12 67m12 70m12 73m12
+. 76m12 79m12 82m12
+X 3 tad_coordonnee.adb
+11r7 c{2|3R9} 13m7 14m7 15r14
+42i7 carre{integer} 44m7 45r14
+54r7 c{2|3R9} 57m10 58m10 60m10 61m10 63m10 64m10 66m10 67m10 69m10 70m10
+. 72m10 73m10 75m10 76m10 78m10 79m10 81m10 82m10 84r14
+
